@@ -1,0 +1,29 @@
+IETF-126 Side Meeting of IPWASN (IPv6 Wireless Access in Satellite Networks)
+
+o Agenda Bash
+Chair: Jaehoon Paul Jeong (SKKU)
+Date/Time: July 22, 2026, 09:45-10:45 (60 min)
+Place: Park Suite 4, Hilton Vienna Park
+Zoom: https://skku-edu.zoom.us/j/87145638020?pwd=btDwMmiI6xkntNkIBpYMtDa3taW3o6.1
+GitHub – Hackathon Project:
+https://github.com/jaehoonpauljeong/IPWASN/tree/main/IETF-126
+GitHub – Meeting Materials:
+https://github.com/jaehoonpauljeong/IPWASN/tree/main/Side-Meetings/IETF-126
+Time: 5 min (09:45-09:50)
+
+o IETF-126 IPWASN Hackathon Project
+Presenter: Jimin Lee (SKKU)
+Time: 15 min (09:50-10:05)
+Draft:
+https://datatracker.ietf.org/doc/draft-lee-v6ops-ipv6-satellite-networks/
+
+o IPv6 Wireless Access in Satellite Networks (IPWASN): Problem Statement and Use Cases
+Presenter: Jaehoon Paul Jeong (SKKU)
+Time: 15 min (10:05-10:20)
+Draft:
+https://datatracker.ietf.org/doc/draft-lee-v6ops-ipv6-satellite-networks/ 
+
+o Discussion
+Facilitator: Jaehoon Paul Jeong (SKKU)
+Time: 25 min (10:20-10:45)
+Topic: Discussion on the Next Steps for IPWASN
